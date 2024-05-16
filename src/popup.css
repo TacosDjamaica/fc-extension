@@ -23,4 +23,27 @@ div {
 /* Estilos adicionales opcionales */
 div h1 {
     margin-top: 0;
-    font-size:
+    font-size: 24px;
+}
+
+div p {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #666;
+}
+
+/* Botón de cierre */
+div .close-btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+div .close-btn:hover {
+    background-color: #0056b3;
+}
