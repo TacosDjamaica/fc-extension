@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "FC-horario",
+    "version": "1.0",
+    "description": "Organizador de horario de la Facultad de Ciencias UNAM",
+    "icons":{
+        "128": "FC.png"
+    },
+    "action": {
+        "default_popup":"popup.html"
+    }
+
+}
